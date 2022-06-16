@@ -1,7 +1,5 @@
 # Require:
-- Visual Studio 2022
-- Installed package Oracle.ManagedDataAccess.Core 
-- (If you haven't installed this package yet, let's open Visual Studio -> project -> Manage NuGet Pakages... -> Browse) 
+- Oracle 18c or later. 
 # Set Up
 - Step 1:
 Login sqldeveloper with SYS and run file script/SYS.txt
